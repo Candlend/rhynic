@@ -858,8 +858,8 @@
 		#gallery_thumbnails article {
 			position: relative;
 			width: 50%;
-			background: #101010;
 			outline: 0;
+			padding: 2px 2px 2px 2px
 		}
 
 			#gallery_thumbnails article .thumbnail {
